@@ -1,0 +1,16 @@
+	STAR --runThreadN 8 --runMode genomeGenerate --genomeDir ./STAR_Index_hg38_81 --genomeFastaFiles ./Reference_genome/Homo_sapiens.GRCh38.dna.primary_assembly.fa --sjdbGTFfile ./Reference_genome/Homo_sapiens.GRCh38.81.gtf --sjdbOverhang 100
+	STAR version: 2.7.11a   compiled: 2024-04-21T02:58:26+02:00 node600.hydra.os:/dev/shm/eb-submit-build/STAR/2.7.11a/GCC-12.3.0/STAR-2.7.11a/source
+Dec 04 18:13:42 ..... started STAR run
+Dec 04 18:13:42 ... starting to generate Genome files
+Dec 04 18:14:17 ..... processing annotations GTF
+Dec 04 18:14:29 ... starting to sort Suffix Array. This may take a long time...
+Dec 04 18:14:39 ... sorting Suffix Array chunks and saving them to disk...
+Dec 04 18:33:33 ... loading chunks from disk, packing SA...
+Dec 04 18:34:28 ... finished generating suffix array
+Dec 04 18:34:28 ... generating Suffix Array index
+Dec 04 18:37:52 ... completed Suffix Array index
+Dec 04 18:37:52 ..... inserting junctions into the genome indices
+Dec 04 18:40:23 ... writing Genome to disk ...
+Dec 04 18:40:24 ... writing Suffix Array to disk ...
+Dec 04 18:40:32 ... writing SAindex to disk
+Dec 04 18:40:35 ..... finished successfully

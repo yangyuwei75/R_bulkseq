@@ -1,0 +1,40 @@
+	STAR --runThreadN 8 --genomeDir ./STAR_Index_hg38_81 --readFilesIn Trimmomatic/Final_cutadapt_None-QS11-1-5_S93_R1.fastq.gz --readFilesCommand zcat --outFileNamePrefix Star_output/cutadapt_None-QS11-1-5_S93_ --outSAMtype BAM SortedByCoordinate --quantMode GeneCounts --outSAMunmapped Within --outSAMattributes Standard
+	STAR version: 2.7.11a   compiled: 2024-04-21T02:58:26+02:00 node600.hydra.os:/dev/shm/eb-submit-build/STAR/2.7.11a/GCC-12.3.0/STAR-2.7.11a/source
+Dec 04 20:39:45 ..... started STAR run
+Dec 04 20:39:45 ..... loading genome
+Dec 04 20:39:59 ..... started mapping
+Dec 04 20:40:12 ..... finished mapping
+Dec 04 20:40:13 ..... started sorting BAM
+Dec 04 20:40:15 ..... finished successfully
+	STAR --runThreadN 8 --genomeDir ./STAR_Index_hg38_81 --readFilesIn Trimmomatic/Final_cutadapt_None-QS11-1-6_S94_R1.fastq.gz --readFilesCommand zcat --outFileNamePrefix Star_output/cutadapt_None-QS11-1-6_S94_ --outSAMtype BAM SortedByCoordinate --quantMode GeneCounts --outSAMunmapped Within --outSAMattributes Standard
+	STAR version: 2.7.11a   compiled: 2024-04-21T02:58:26+02:00 node600.hydra.os:/dev/shm/eb-submit-build/STAR/2.7.11a/GCC-12.3.0/STAR-2.7.11a/source
+Dec 04 20:40:15 ..... started STAR run
+Dec 04 20:40:15 ..... loading genome
+Dec 04 20:40:31 ..... started mapping
+Dec 04 20:40:44 ..... finished mapping
+Dec 04 20:40:45 ..... started sorting BAM
+Dec 04 20:40:47 ..... finished successfully
+	STAR --runThreadN 8 --genomeDir ./STAR_Index_hg38_81 --readFilesIn Trimmomatic/Final_cutadapt_None-QS11-1-7_S95_R1.fastq.gz --readFilesCommand zcat --outFileNamePrefix Star_output/cutadapt_None-QS11-1-7_S95_ --outSAMtype BAM SortedByCoordinate --quantMode GeneCounts --outSAMunmapped Within --outSAMattributes Standard
+	STAR version: 2.7.11a   compiled: 2024-04-21T02:58:26+02:00 node600.hydra.os:/dev/shm/eb-submit-build/STAR/2.7.11a/GCC-12.3.0/STAR-2.7.11a/source
+Dec 04 20:40:47 ..... started STAR run
+Dec 04 20:40:47 ..... loading genome
+Dec 04 20:41:01 ..... started mapping
+Dec 04 20:41:18 ..... finished mapping
+Dec 04 20:41:19 ..... started sorting BAM
+Dec 04 20:41:22 ..... finished successfully
+	STAR --runThreadN 8 --genomeDir ./STAR_Index_hg38_81 --readFilesIn Trimmomatic/Final_cutadapt_None-QS11-1-8_S96_R1.fastq.gz --readFilesCommand zcat --outFileNamePrefix Star_output/cutadapt_None-QS11-1-8_S96_ --outSAMtype BAM SortedByCoordinate --quantMode GeneCounts --outSAMunmapped Within --outSAMattributes Standard
+	STAR version: 2.7.11a   compiled: 2024-04-21T02:58:26+02:00 node600.hydra.os:/dev/shm/eb-submit-build/STAR/2.7.11a/GCC-12.3.0/STAR-2.7.11a/source
+Dec 04 20:41:22 ..... started STAR run
+Dec 04 20:41:22 ..... loading genome
+Dec 04 20:41:35 ..... started mapping
+Dec 04 20:41:52 ..... finished mapping
+Dec 04 20:41:53 ..... started sorting BAM
+Dec 04 20:41:56 ..... finished successfully
+	STAR --runThreadN 8 --genomeDir ./STAR_Index_hg38_81 --readFilesIn Trimmomatic/Final_cutadapt_None-QS11-1-9_S97_R1.fastq.gz --readFilesCommand zcat --outFileNamePrefix Star_output/cutadapt_None-QS11-1-9_S97_ --outSAMtype BAM SortedByCoordinate --quantMode GeneCounts --outSAMunmapped Within --outSAMattributes Standard
+	STAR version: 2.7.11a   compiled: 2024-04-21T02:58:26+02:00 node600.hydra.os:/dev/shm/eb-submit-build/STAR/2.7.11a/GCC-12.3.0/STAR-2.7.11a/source
+Dec 04 20:41:56 ..... started STAR run
+Dec 04 20:41:56 ..... loading genome
+Dec 04 20:42:10 ..... started mapping
+Dec 04 20:42:23 ..... finished mapping
+Dec 04 20:42:25 ..... started sorting BAM
+Dec 04 20:42:27 ..... finished successfully

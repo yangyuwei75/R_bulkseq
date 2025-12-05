@@ -1,0 +1,55 @@
+Picked up JAVA_TOOL_OPTIONS: -Xmx5007998976
+TrimmomaticPE: Started with arguments:
+ ./Data_monocyte_infiltration/None-QS11-1-5_S93_R1_001.fastq.gz ./Data_monocyte_infiltration/None-QS11-1-5_S93_R2_001.fastq.gz Trimmomatic/cutadapt_None-QS11-1-5_S93_R1.fastq.gz Trimmomatic/cutadapt_None-QS11-1-5_S93_R1_unpaired.fastq.gz Trimmomatic/cutadapt_None-QS11-1-5_S93_R2_ignore.fastq.gz Trimmomatic/cutadapt_None-QS11-1-5_S93_R2_unpaired.fastq.gz ILLUMINACLIP:/scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT'
+Using Long Clipping Sequence: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+ILLUMINACLIP: Using 1 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 4946194 Both Surviving: 400024 (8.09%) Forward Only Surviving: 3502720 (70.82%) Reverse Only Surviving: 12624 (0.26%) Dropped: 1030826 (20.84%)
+TrimmomaticPE: Completed successfully
+Picked up JAVA_TOOL_OPTIONS: -Xmx5007998976
+TrimmomaticPE: Started with arguments:
+ ./Data_monocyte_infiltration/None-QS11-1-6_S94_R1_001.fastq.gz ./Data_monocyte_infiltration/None-QS11-1-6_S94_R2_001.fastq.gz Trimmomatic/cutadapt_None-QS11-1-6_S94_R1.fastq.gz Trimmomatic/cutadapt_None-QS11-1-6_S94_R1_unpaired.fastq.gz Trimmomatic/cutadapt_None-QS11-1-6_S94_R2_ignore.fastq.gz Trimmomatic/cutadapt_None-QS11-1-6_S94_R2_unpaired.fastq.gz ILLUMINACLIP:/scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT'
+Using Long Clipping Sequence: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+ILLUMINACLIP: Using 1 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5661895 Both Surviving: 356841 (6.30%) Forward Only Surviving: 3716914 (65.65%) Reverse Only Surviving: 22358 (0.39%) Dropped: 1565782 (27.65%)
+TrimmomaticPE: Completed successfully
+Picked up JAVA_TOOL_OPTIONS: -Xmx5007998976
+TrimmomaticPE: Started with arguments:
+ ./Data_monocyte_infiltration/None-QS11-1-7_S95_R1_001.fastq.gz ./Data_monocyte_infiltration/None-QS11-1-7_S95_R2_001.fastq.gz Trimmomatic/cutadapt_None-QS11-1-7_S95_R1.fastq.gz Trimmomatic/cutadapt_None-QS11-1-7_S95_R1_unpaired.fastq.gz Trimmomatic/cutadapt_None-QS11-1-7_S95_R2_ignore.fastq.gz Trimmomatic/cutadapt_None-QS11-1-7_S95_R2_unpaired.fastq.gz ILLUMINACLIP:/scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT'
+Using Long Clipping Sequence: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+ILLUMINACLIP: Using 1 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5343136 Both Surviving: 394857 (7.39%) Forward Only Surviving: 4071989 (76.21%) Reverse Only Surviving: 11072 (0.21%) Dropped: 865218 (16.19%)
+TrimmomaticPE: Completed successfully
+Picked up JAVA_TOOL_OPTIONS: -Xmx5007998976
+TrimmomaticPE: Started with arguments:
+ ./Data_monocyte_infiltration/None-QS11-1-8_S96_R1_001.fastq.gz ./Data_monocyte_infiltration/None-QS11-1-8_S96_R2_001.fastq.gz Trimmomatic/cutadapt_None-QS11-1-8_S96_R1.fastq.gz Trimmomatic/cutadapt_None-QS11-1-8_S96_R1_unpaired.fastq.gz Trimmomatic/cutadapt_None-QS11-1-8_S96_R2_ignore.fastq.gz Trimmomatic/cutadapt_None-QS11-1-8_S96_R2_unpaired.fastq.gz ILLUMINACLIP:/scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT'
+Using Long Clipping Sequence: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+ILLUMINACLIP: Using 1 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 6735440 Both Surviving: 433271 (6.43%) Forward Only Surviving: 4788101 (71.09%) Reverse Only Surviving: 17909 (0.27%) Dropped: 1496159 (22.21%)
+TrimmomaticPE: Completed successfully
+Picked up JAVA_TOOL_OPTIONS: -Xmx5007998976
+TrimmomaticPE: Started with arguments:
+ ./Data_monocyte_infiltration/None-QS11-1-9_S97_R1_001.fastq.gz ./Data_monocyte_infiltration/None-QS11-1-9_S97_R2_001.fastq.gz Trimmomatic/cutadapt_None-QS11-1-9_S97_R1.fastq.gz Trimmomatic/cutadapt_None-QS11-1-9_S97_R1_unpaired.fastq.gz Trimmomatic/cutadapt_None-QS11-1-9_S97_R2_ignore.fastq.gz Trimmomatic/cutadapt_None-QS11-1-9_S97_R2_unpaired.fastq.gz ILLUMINACLIP:/scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /scratch/brussel/108/vsc10841/RHome/adpaters_plus_polyA.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT'
+Using Long Clipping Sequence: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+ILLUMINACLIP: Using 1 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 5583636 Both Surviving: 337590 (6.05%) Forward Only Surviving: 3831205 (68.61%) Reverse Only Surviving: 15704 (0.28%) Dropped: 1399137 (25.06%)
+TrimmomaticPE: Completed successfully
